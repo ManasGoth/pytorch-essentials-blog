@@ -1,6 +1,6 @@
-title: Manas Goth's Blogs
-description: Deep Learning, PyTorch, Transformers, LLMs, AI Engineering, and Data Science.
-author: Manas Goth
+title: "Manas Goth's Blogs"
+description: "Deep Learning, PyTorch, Transformers, LLMs, AI Engineering, and Data Science."
+author: "Manas Goth"
 
 url: "https://manasgoth.github.io"
 baseurl: "/pytorch-essentials-blog"
@@ -11,26 +11,23 @@ markdown: kramdown
 highlighter: rouge
 
 plugins:
-
-* jekyll-feed
-* jekyll-seo-tag
+ - jekyll-feed
+ - jekyll-seo-tag
 
 show_excerpts: true
 
 minima:
-skin: classic
+  skin: classic
 
 social_links:
-github: ManasGoth
+  github: ManasGoth
 
 header_pages:
-
-* about.md
+ - about.md
 
 exclude:
-
-* notebooks/
-* .ipynb_checkpoints/
-* README.md
+ - notebooks/
+ - .ipynb_checkpoints/
+ - README.md
 
 permalink: /:categories/:title/
