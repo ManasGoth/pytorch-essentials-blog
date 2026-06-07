@@ -1,8 +1,24 @@
+# PyTorch Essentials
+
+Welcome to my PyTorch learning blog.
+
+## Articles
+
 ---
 layout: home
 title: Home
 ---
 
-# Welcome to PyTorch Essentials
+# PyTorch Essentials
 
-A blog documenting my PyTorch and Deep Learning learning journey.
+Welcome to my learning journey into:
+
+- [Neural Network from scratch - Why PyTorch matters](./_posts/neural_network_from_scratch.md)
+- PyTorch Fundamentals
+- Autograd & Backpropagation
+- CNNs
+- Transformers
+- LLMs & GPT Models
+- Deep Learning Mathematics
+
+This blog documents concepts, experiments, visualizations, and code examples to navigate from PyTorch fundamentals to building GPT-like models from scratch.

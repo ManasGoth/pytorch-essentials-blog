@@ -1,3 +1,31 @@
 title: PyTorch Essentials
-description: Deep Learning and PyTorch Learning Journey
+description: A deep dive into PyTorch, Deep Learning, Transformers, and Generative AI.
+author: Manas Goth
+
+url: "https://manasgoth.github.io"
+baseurl: "/pytorch-essentials-blog"
+
 theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_excerpts: true
+
+header_pages:
+  - about.md
+
+social_links:
+  github: ManasGoth
+
+minima:
+  skin: classic
+
+exclude:
+  - notebooks/
+  - .ipynb_checkpoints/
+  - README.md
