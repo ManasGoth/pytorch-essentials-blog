@@ -1,13 +1,9 @@
 ---
-
 layout: post
 title: "Understanding Neural Networks From Scratch — Why PyTorch Matters"
-date: 2026-08-07
-categories:
-
-* neural-networks
-  permalink: /neural-networks/why-pytorch-matters/
-
+date: 2026-06-07
+categories: neural-networks
+permalink: /neural-networks/why-pytorch-matters/
 ---
 
 ## Objective
