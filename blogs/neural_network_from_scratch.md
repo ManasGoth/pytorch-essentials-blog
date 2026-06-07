@@ -41,7 +41,8 @@ Training samples:
 
 Architecture:
 
-![nn_architecture](./images/)
+![nn_architecture](../images/PyTorchAutograd/Single_neuron_NN.png)
+
 
 ```text
 Input x
@@ -170,6 +171,7 @@ so that loss decreases?
 ```
 
 This is where calculus enters deep learning.
+
 
 ---
 
@@ -480,11 +482,8 @@ using automatic differentiation.
 
 # Computational Graph
 
-```text
-x ----→ (*) ----→ y_hat ----→ Loss
-          ↑
-          w
-```
+
+![computation_graph](../images/PyTorchAutograd/Computational_graph.png)
 
 PyTorch stores:
 
