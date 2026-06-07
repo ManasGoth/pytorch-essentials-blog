@@ -3,13 +3,17 @@ layout: home
 title: Deep Learning Essentials
 ---
 
-Welcome to my learning journey into:
+Welcome to my learning journey through Deep Learning, PyTorch, Transformers, and Generative AI.
 
-- [Neural Network from scratch : Why PyTorch matters](./_posts/neural_network_from_scratch.md)
+This blog documents concepts, experiments, visualizations, and code examples as I progress from neural network fundamentals to building GPT-like models from scratch.
+
+## Learning Roadmap
+
+- Neural Networks
 - PyTorch Fundamentals
 - Autograd & Backpropagation
 - CNNs
 - Transformers
-- LLMs & GPT Models
-
-These blog posts document concepts, experiments, visualizations, and code examples to navigate from Neural Network fundamentals to build GPT-like models from scratch.
+- Large Language Models
+- GPT Architecture
+- AI Engineering

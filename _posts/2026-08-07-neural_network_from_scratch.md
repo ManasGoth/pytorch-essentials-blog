@@ -1,4 +1,9 @@
-# Understanding Neural Networks From Scratch — Why PyTorch Matters
+---
+layout: post
+title: "Understanding Neural Networks From Scratch — Why PyTorch Matters"
+date: 2026-08-07
+categories: pytorch deep-learning
+---
 
 ## Objective
 
