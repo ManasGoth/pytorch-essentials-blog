@@ -41,6 +41,8 @@ Training samples:
 
 Architecture:
 
+![nn_architecture](./images/)
+
 ```text
 Input x
    ↓
