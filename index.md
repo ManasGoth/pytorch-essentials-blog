@@ -1,16 +1,4 @@
 # PyTorch Essentials
-
-Welcome to my PyTorch learning blog.
-
-## Articles
-
----
-layout: home
-title: Home
----
-
-# PyTorch Essentials
-
 Welcome to my learning journey into:
 
 - [Neural Network from scratch - Why PyTorch matters](./_posts/neural_network_from_scratch.md)
@@ -21,4 +9,4 @@ Welcome to my learning journey into:
 - LLMs & GPT Models
 - Deep Learning Mathematics
 
-This blog documents concepts, experiments, visualizations, and code examples to navigate from PyTorch fundamentals to building GPT-like models from scratch.
+This blog documents concepts, experiments, visualizations, and code examples to navigate from PyTorch fundamentals to build GPT-like models from scratch.
