@@ -2,7 +2,7 @@
 layout: page
 title: Deep Learning Essentials
 permalink: /
-------------
+---
 
 Welcome to my learning journey through Deep Learning, PyTorch, Transformers, Large Language Models, and AI Engineering.
 
