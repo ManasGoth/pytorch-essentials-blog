@@ -41,7 +41,7 @@ Training samples:
 
 Architecture:
 
-![nn_architecture](../images/PyTorchAutograd/Single_neuron_NN.png)
+![nn_architecture](../assets/images/PyTorchAutograd/Single_neuron_NN.png)
 
 
 ```text
@@ -483,7 +483,7 @@ using automatic differentiation.
 # Computational Graph
 
 
-![computation_graph](../images/PyTorchAutograd/Computational_graph.png)
+![computation_graph](../assets/images/PyTorchAutograd/Computational_graph.png)
 
 PyTorch stores:
 
