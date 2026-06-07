@@ -5,7 +5,7 @@ title: Deep Learning Essentials
 
 Welcome to my learning journey into:
 
-- [Neural Network from scratch - Why PyTorch matters](./_posts/neural_network_from_scratch.md)
+- [Neural Network from scratch : Why PyTorch matters](./_posts/neural_network_from_scratch.md)
 - PyTorch Fundamentals
 - Autograd & Backpropagation
 - CNNs
